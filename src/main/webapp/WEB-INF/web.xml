@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" version="5.0">
+  <servlet>
+    <description></description>
+    <display-name>abrar</display-name>
+    <servlet-name>abrar</servlet-name>
+    <servlet-class>abrar</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>abrar</servlet-name>
+    <url-pattern>/abrar</url-pattern>
+  </servlet-mapping>
+  <display-name>Hospital Management Project 1</display-name>
+  <servlet>
+    <description></description>
+    <display-name>testt</display-name>
+    <servlet-name>testt</servlet-name>
+    <servlet-class>testt</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>testt</servlet-name>
+    <url-pattern>/testt</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>PrescriptionServlet</display-name>
+    <servlet-name>PrescriptionServlet</servlet-name>
+    <servlet-class>conn.doctor.servlet.PrescriptionServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>PrescriptionServlet</servlet-name>
+    <url-pattern>/PrescriptionServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
