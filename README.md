@@ -13,5 +13,5 @@ appoint is being made can see and comment on it.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+![Screenshot (1)](https://github.com/Abrar101102/Hospital_management_Java/assets/141958499/d3656645-3e42-4592-a511-0a8aa7d2f9ed)
